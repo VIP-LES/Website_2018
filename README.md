@@ -1,9 +1,7 @@
 # Website_2018
-Our new updated website designed to run on an EC2 and loosely based on 2017's website
+*Our new updated website designed to run on an EC2 and loosely based on 2017's website*
 
-As like any other nodejs based website to run this 
-
-Install Node.js, clone the repo and then run:
+As like any other nodejs based website install Node.js, clone the repo and then run:
 
 ```
 npm install  //installs the packages you need
