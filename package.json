@@ -2,6 +2,8 @@
   "name": "express-example",
   "version": "0.0.0",
   "private": true,
+  "homepage": "http://lightninginspace.ga"
+  "author": "Kenneth Shaw <kshaw@gatech.edu>"
   "scripts": {
     "start": "node ./bin/www"
   },
@@ -14,5 +16,20 @@
     "morgan": "~1.9.0",
     "serve-favicon": "~2.4.5",
     "stylus": "0.54.5"
+
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^2.13.0",
+    "font-awesome": "^4.7.0",
+    "highcharts": "^5.0.10",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.10",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-header": "^1.8.7",
+    "gulp-less": "^3.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.4",
+    "jquery": "^1.11.3",
+    "magnific-popup": "^1.1.0",
+    "scrollreveal": "^3.1.4"
   }
 }
